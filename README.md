@@ -6,9 +6,6 @@
   <img height="200" src="https://avatars.githubusercontent.com/u/73047692?v=4"  />
 </div>
 
-###
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31m4htgghxohzdjfi5y23raywviy)
 
 ###
 
