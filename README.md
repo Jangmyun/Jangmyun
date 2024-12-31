@@ -9,9 +9,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31m4htgghxohzdjfi5y23raywviy?si=Jw7zPWztRgeWHPl82AbFgQ">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31m4htgghxohzdjfi5y23raywviy?si=Jw7zPWztRgeWHPl82AbFgQ&count=1" alt="Spotify recently played"  />
-  </a>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 </div>
 
 ###
