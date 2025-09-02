@@ -9,13 +9,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Jangmyun/count.svg?"  />
-</div>
-
-
-###
-
 <img src="https://raw.githubusercontent.com/Jangmyun/Jangmyun/output/snake.svg" alt="Snake animation" />
 
 ###
